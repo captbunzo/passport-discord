@@ -1,16 +1,14 @@
-# Archived
-
-This package is no longer maintained.
-
-Please consider migrating to a maintained alternative, (following packages are author unvetted) such as: [discord-strategy](https://www.npmjs.com/package/discord-strategy), [passport-discord-auth](https://www.npmjs.com/package/passport-discord-auth), ...
-
----
-
 # passport-discord
 
 Passport strategy for authentication with [Discord](http://discordapp.com) through the OAuth 2.0 API.
 
 Before using this strategy, it is strongly recommended that you read through the official docs page [here](https://discord.com/developers/docs/topics/oauth2), especially about the scopes and understand how the auth works.
+
+## Update
+
+The original [passport-discord](https://github.com/nicholastay/passport-discord) package for is no longer maintained.
+
+I am in the process of starting to maintain it in this repo and am attempting to contact the original author to see if he is open to me taking it over. Yes, there are alternatives, but I feel like this one is more fully developed and works better for my needs.
 
 ## Usage
 `npm install passport-discord --save`
